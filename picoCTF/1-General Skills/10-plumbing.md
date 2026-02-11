@@ -9,4 +9,6 @@ realizar el launcher donde te da el puerto al que debes entrar, realmente aqui s
 picoCTF{digital_plumb3r_11fffFE5}
 ## Notas
 si no se tiene el conocimiento de algunas herramientas de linux es imposible conseguirlo, yo busque el problema en internet, después investigo esa funcion de comando de linux.
+
+en clases se utilizo es de mandar los datos a otro archivo de texto con '>' y haciendo el | grep 
 ## Referencias

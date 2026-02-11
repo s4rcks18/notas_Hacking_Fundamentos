@@ -14,7 +14,10 @@ texto de resultado:
 
 después se implementa en la pagina de CyberChef para poder combertir el caracter de hexa a asci obteniendo la bandera a entregar: 
 picoCTF{gl17ch_m3_n07_bda68f75}
+
 ## Notas
  Cyber Chef es una pagina que me permite decodificar en diferentes formatos 
+en clases se soluciono pegando la linea en python para que me salga la cadena.
+quit() o control d es para salirse en el inteprete de python.
 ## Referencias
 https://gchq.github.io/CyberChef/
