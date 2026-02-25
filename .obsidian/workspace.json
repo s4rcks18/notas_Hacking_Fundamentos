@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c1415af4ec1c94db",
+        "id": "add65fc0e287b801",
         "type": "tabs",
         "children": [
           {
-            "id": "d711a6c3e3eea683",
+            "id": "de42eb91536f3a45",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/4-General Skills/10- Special.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "10- Special"
+              "title": "New tab"
             }
           }
         ]
@@ -180,19 +176,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "d711a6c3e3eea683",
+  "active": "de42eb91536f3a45",
   "lastOpenFiles": [
+    "picoCTF/4-General Skills/10- Special.md",
+    "picoCTF/plantillas.md",
+    "picoCTF/Web2/1- GET aHEAD.md",
+    "picoCTF/Web2/3- Scavenger Hunt.md",
+    "picoCTF/Web2/2- Cookies.md",
+    "picoCTF/Web2",
+    "picoCTF/Web1/Untitled.md",
+    "Pasted image 20260222222616.png",
     "picoCTF/4-General Skills/9- Permissions.md",
     "picoCTF/4-General Skills/8- chrono.md",
     "picoCTF/4-General Skills/7- ASCII Numbers.md",
     "picoCTF/4-General Skills/6- Time Machine.md",
     "picoCTF/4-General Skills/5- Commitment Issues.md",
     "picoCTF/4-General Skills/4- Collaborative Development.md",
-    "picoCTF/4-General Skills/10- Special.md",
     "picoCTF/4-General Skills/3- Blame Game.md",
     "picoCTF/4-General Skills/2- binhexa.md",
     "picoCTF/4-General Skills/1- Binary Search.md",
-    "picoCTF/plantillas.md",
     "picoCTF/4-General Skills/Untitled 9.md",
     "picoCTF/4-General Skills",
     "Untitled.base",
@@ -208,11 +210,7 @@
     "picoCTF/3-General Skills/Super SSH.md",
     "picoCTF/3-General Skills/PW Crack2.md",
     "picoCTF/3-General Skills/Fixme2.py.md",
-    "picoCTF/3-General Skills/CodeBook.md",
-    "picoCTF/2-General Skills 2/10-useless.md",
     "picoCTF/3-General Skills",
-    "picoCTF/2-General Skills 2/9-Based.md",
-    "picoCTF/2-General Skills 2/8-Wave a flag.md",
     "picoCTF/2-General Skills 2",
     "simulaciones/Pasted image 20260210100045.png",
     "simulaciones/Pasted image 20260210100128.png",
