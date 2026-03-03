@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "be2c177467a737e9",
+        "id": "4be6be797e0e956e",
         "type": "tabs",
         "children": [
           {
-            "id": "38d1b7c4b8418e93",
+            "id": "2da19710f358ee42",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Web4/4- Most Cookies.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "4- Most Cookies"
             }
           }
         ]
@@ -176,12 +180,17 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "38d1b7c4b8418e93",
+  "active": "2da19710f358ee42",
   "lastOpenFiles": [
+    "picoCTF/Web4/3- Trickster.md",
+    "picoCTF/Web4/4- Most Cookies.md",
+    "picoCTF/Web4/1- MatchTheRegex.md",
+    "picoCTF/Web4/2- SOAP.md",
+    "picoCTF/plantillas.md",
+    "picoCTF/Web4",
     "picoCTF/Web3/3- JaWT Scratchpad.md",
     "picoCTF/Web3/2- More SQLi.md",
     "picoCTF/Web3/1- Irish-Name-Repo 1.md",
-    "picoCTF/plantillas.md",
     "Untitled 1",
     "picoCTF/4-General Skills/10- Special.md",
     "picoCTF/Web2/1- GET aHEAD.md",
@@ -207,10 +216,6 @@
     "README.md",
     "picoCTF/3-General Skills/Convertme.py.md",
     "picoCTF/3-General Skills/Fixme1.py.md",
-    "picoCTF/3-General Skills/PW Crack1.md",
-    "picoCTF/3-General Skills/PW Crack3.md",
-    "picoCTF/3-General Skills/Serpentine.md",
-    "picoCTF/3-General Skills/runme.py.md",
     "picoCTF/3-General Skills",
     "picoCTF/2-General Skills 2",
     "simulaciones/Pasted image 20260210100045.png",
@@ -219,7 +224,6 @@
     "simulaciones/Pasted image 20260210100050.png",
     "Untitled 1.base",
     "simulaciones",
-    "picoCTF/1-General Skills",
-    "picoCTF"
+    "picoCTF/1-General Skills"
   ]
 }
