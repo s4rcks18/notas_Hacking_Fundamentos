@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4be6be797e0e956e",
+        "id": "267578089a91efc1",
         "type": "tabs",
         "children": [
           {
-            "id": "2da19710f358ee42",
+            "id": "fa62dcd241f8cacc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Web4/4- Most Cookies.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4- Most Cookies"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -180,13 +176,25 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "2da19710f358ee42",
+  "active": "fa62dcd241f8cacc",
   "lastOpenFiles": [
-    "picoCTF/Web4/3- Trickster.md",
+    "picoCTF/Tareas2/10- WebDecode.md",
+    "picoCTF/Tareas2/5- Power Cookie.md",
+    "picoCTF/Tareas2/6- Roboto Sans.md",
+    "picoCTF/Tareas2/7-Secrets.md",
+    "picoCTF/Tareas2/8- SQLiLite.md",
+    "picoCTF/Tareas2/9- Unminify.md",
+    "picoCTF/Tareas2/1- Includes.md",
+    "picoCTF/Tareas2/2-Inspect HTML.md",
+    "picoCTF/Tareas2/3- IntroToBurp.md",
+    "picoCTF/Tareas2/4- Local Authority.md",
+    "picoCTF/Tareas2/7- Sin título 7.md",
     "picoCTF/Web4/4- Most Cookies.md",
+    "picoCTF/plantillas.md",
+    "picoCTF/Tareas2",
+    "picoCTF/Web4/3- Trickster.md",
     "picoCTF/Web4/1- MatchTheRegex.md",
     "picoCTF/Web4/2- SOAP.md",
-    "picoCTF/plantillas.md",
     "picoCTF/Web4",
     "picoCTF/Web3/3- JaWT Scratchpad.md",
     "picoCTF/Web3/2- More SQLi.md",
@@ -201,21 +209,10 @@
     "Pasted image 20260222222616.png",
     "picoCTF/4-General Skills/9- Permissions.md",
     "picoCTF/4-General Skills/8- chrono.md",
-    "picoCTF/4-General Skills/7- ASCII Numbers.md",
-    "picoCTF/4-General Skills/6- Time Machine.md",
-    "picoCTF/4-General Skills/5- Commitment Issues.md",
-    "picoCTF/4-General Skills/4- Collaborative Development.md",
-    "picoCTF/4-General Skills/3- Blame Game.md",
-    "picoCTF/4-General Skills/2- binhexa.md",
-    "picoCTF/4-General Skills/1- Binary Search.md",
-    "picoCTF/4-General Skills/Untitled 9.md",
     "picoCTF/4-General Skills",
     "Untitled.base",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "README.md",
-    "picoCTF/3-General Skills/Convertme.py.md",
-    "picoCTF/3-General Skills/Fixme1.py.md",
     "picoCTF/3-General Skills",
     "picoCTF/2-General Skills 2",
     "simulaciones/Pasted image 20260210100045.png",
@@ -223,7 +220,6 @@
     "simulaciones/Pasted image 20260210100224.png",
     "simulaciones/Pasted image 20260210100050.png",
     "Untitled 1.base",
-    "simulaciones",
-    "picoCTF/1-General Skills"
+    "simulaciones"
   ]
 }
