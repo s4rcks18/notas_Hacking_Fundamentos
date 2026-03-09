@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa62dcd241f8cacc",
+            "id": "92d96ab8d948f010",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Foresic1/5-What Lies Within.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "5-What Lies Within"
             }
           }
         ]
@@ -176,8 +180,17 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "fa62dcd241f8cacc",
+  "active": "92d96ab8d948f010",
   "lastOpenFiles": [
+    "picoCTF/Foresic1/4- extensions.md",
+    "picoCTF/Foresic1/5-What Lies Within.md",
+    "picoCTF/Foresic1/3- shark on wire 1.md",
+    "picoCTF/Foresic1/2- So Meta.md",
+    "picoCTF/Foresic1/1- Glory of the Garden.md",
+    "picoCTF/plantillas.md",
+    "README.md",
+    "s",
+    "picoCTF/Foresic1",
     "picoCTF/Tareas2/10- WebDecode.md",
     "picoCTF/Tareas2/5- Power Cookie.md",
     "picoCTF/Tareas2/6- Roboto Sans.md",
@@ -190,7 +203,6 @@
     "picoCTF/Tareas2/4- Local Authority.md",
     "picoCTF/Tareas2/7- Sin título 7.md",
     "picoCTF/Web4/4- Most Cookies.md",
-    "picoCTF/plantillas.md",
     "picoCTF/Tareas2",
     "picoCTF/Web4/3- Trickster.md",
     "picoCTF/Web4/1- MatchTheRegex.md",
@@ -201,14 +213,8 @@
     "picoCTF/Web3/1- Irish-Name-Repo 1.md",
     "Untitled 1",
     "picoCTF/4-General Skills/10- Special.md",
-    "picoCTF/Web2/1- GET aHEAD.md",
-    "picoCTF/Web2/3- Scavenger Hunt.md",
-    "picoCTF/Web2/2- Cookies.md",
     "picoCTF/Web2",
-    "picoCTF/Web1/Untitled.md",
     "Pasted image 20260222222616.png",
-    "picoCTF/4-General Skills/9- Permissions.md",
-    "picoCTF/4-General Skills/8- chrono.md",
     "picoCTF/4-General Skills",
     "Untitled.base",
     "Untitled.canvas",
@@ -218,8 +224,6 @@
     "simulaciones/Pasted image 20260210100045.png",
     "simulaciones/Pasted image 20260210100128.png",
     "simulaciones/Pasted image 20260210100224.png",
-    "simulaciones/Pasted image 20260210100050.png",
-    "Untitled 1.base",
-    "simulaciones"
+    "simulaciones/Pasted image 20260210100050.png"
   ]
 }
