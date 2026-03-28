@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2e4766e726a872e9",
+        "id": "84957d1774e64bf9",
         "type": "tabs",
         "children": [
           {
-            "id": "67a6c31c83d76831",
+            "id": "aa5069a814834ca4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Foresic3/2-Webnet1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2-Webnet1"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -180,17 +176,24 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "67a6c31c83d76831",
+  "active": "aa5069a814834ca4",
   "lastOpenFiles": [
-    "picoCTF/Foresic3/3- Matryoshka dolls.md",
+    "picoCTF/Foresic4/6- Operation Oni.md",
+    "picoCTF/Foresic4/5- Operation Orchid.md",
+    "picoCTF/Foresic4/4- Sleuthkit Apprentice.md",
+    "picoCTF/Foresic4/3- Sleuthkit Intro.md",
+    "picoCTF/Foresic4/2- Disk, disk, sleuth!.md",
+    "picoCTF/Foresic4/1- Milkslap.md",
+    "picoCTF/plantillas.md",
     "picoCTF/Foresic3/2-Webnet1.md",
+    "picoCTF/Foresic4",
+    "picoCTF/Foresic3/3- Matryoshka dolls.md",
     "picoCTF/Foresic3/1-WebNet0.md",
     "picoCTF/Foresic3/4- tunn3l_v1s10n.md",
     "picoCTF/Foresic3/5-MacroHard WeakEdge.md",
     "picoCTF/Foresic3/6- Sin título 5.md",
     "picoCTF/Foresic3/8- Sin título 7.md",
     "picoCTF/Foresic3/7- Sin título 6.md",
-    "picoCTF/plantillas.md",
     "picoCTF/Foresic3",
     "picoCTF/Foresic2/5-shark on wire 2.md",
     "picoCTF/Foresic2/4- like1000.md",
@@ -206,19 +209,12 @@
     "README.md",
     "s",
     "picoCTF/Foresic1",
-    "picoCTF/Tareas2/10- WebDecode.md",
-    "picoCTF/Tareas2/5- Power Cookie.md",
-    "picoCTF/Tareas2/6- Roboto Sans.md",
-    "picoCTF/Tareas2/7-Secrets.md",
-    "picoCTF/Tareas2/8- SQLiLite.md",
-    "picoCTF/Tareas2/9- Unminify.md",
     "picoCTF/Tareas2",
     "picoCTF/Web4",
     "Untitled 1",
     "picoCTF/Web2",
     "Pasted image 20260222222616.png",
     "picoCTF/4-General Skills",
-    "Untitled.base",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "simulaciones/Pasted image 20260210100045.png",
