@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "feb2426fe16bc517",
+        "id": "884be6c5169f416a",
         "type": "tabs",
         "children": [
           {
-            "id": "6ea435ad6018face",
+            "id": "322387ed3a10ccd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rsa-pop-quiz.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "rsa-pop-quiz"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -180,8 +176,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "6ea435ad6018face",
+  "active": "322387ed3a10ccd6",
   "lastOpenFiles": [
+    "picoCTF/Crypto2/rsa-pop-quiz.md",
+    "picoCTF/Crypto2",
     "## Reto## Descripción## Solución## Notas## Referencias.md",
     "picoCTF/Crypto1/waves over lambda.md",
     "picoCTF/Crypto1/Tapping.md",
@@ -190,7 +188,6 @@
     "picoCTF/Crypto1/caesar.md",
     "picoCTF/Crypto1/The Numbers.md",
     "picoCTF/Crypto1/interencdec.md",
-    "rsa-pop-quiz.md",
     "picoCTF/4-General Skills/7- ASCII Numbers.md",
     "picoCTF/4-General Skills/4- Collaborative Development.md",
     "picoCTF/4-General Skills/2- binhexa.md",
@@ -208,7 +205,6 @@
     "picoCTF/Parcial1/examenGeneral/4- Rust fixme 2.md",
     "picoCTF/Parcial1/examenGeneral/3- Rust fixme 1.md",
     "picoCTF/Parcial1/examenGeneral/2-HashingJobApp.md",
-    "picoCTF/Parcial1/examenGeneral/1- FANTASY CTF.md",
     "picoCTF/Parcial1/examenGeneral",
     "picoCTF/Parcial1/examenWeb",
     "picoCTF/Parcial1",
@@ -217,7 +213,6 @@
     "picoCTF/Foresic2",
     "s",
     "picoCTF/Foresic1",
-    "picoCTF/Tareas2",
     "Pasted image 20260222222616.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
