@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "884be6c5169f416a",
+        "id": "96da28d1ba816733",
         "type": "tabs",
         "children": [
           {
-            "id": "322387ed3a10ccd6",
+            "id": "16301fbe35a237f9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,8 +176,15 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "322387ed3a10ccd6",
+  "active": "16301fbe35a237f9",
   "lastOpenFiles": [
+    "picoCTF/Reversing/vault-door-training.md",
+    "picoCTF/Reversing/vault-door-1.md",
+    "picoCTF/Reversing/vault-door-3.md",
+    "picoCTF/Reversing/vault-door-4.md",
+    "picoCTF/Reversing/vault-door-5.md",
+    "picoCTF/plantillas.md",
+    "picoCTF/Reversing",
     "picoCTF/Crypto2/rsa-pop-quiz.md",
     "picoCTF/Crypto2",
     "## Reto## Descripción## Solución## Notas## Referencias.md",
@@ -192,7 +199,6 @@
     "picoCTF/4-General Skills/4- Collaborative Development.md",
     "picoCTF/4-General Skills/2- binhexa.md",
     "picoCTF/Crypto1/13.md",
-    "picoCTF/plantillas.md",
     "picoCTF/Crypto1",
     "picoCTF/Foresic4/3- Sleuthkit Intro.md",
     "README.md",
@@ -201,10 +207,6 @@
     "picoCTF/Parcial1/examenGeneral/8- Python Wrangling.md",
     "picoCTF/Parcial1/examenGeneral/7-flag_shop.md",
     "picoCTF/Parcial1/examenGeneral/6- dont-you-love-banners.md",
-    "picoCTF/Parcial1/examenGeneral/5- Rust fixme 3.md",
-    "picoCTF/Parcial1/examenGeneral/4- Rust fixme 2.md",
-    "picoCTF/Parcial1/examenGeneral/3- Rust fixme 1.md",
-    "picoCTF/Parcial1/examenGeneral/2-HashingJobApp.md",
     "picoCTF/Parcial1/examenGeneral",
     "picoCTF/Parcial1/examenWeb",
     "picoCTF/Parcial1",
@@ -212,7 +214,6 @@
     "picoCTF/Foresic3",
     "picoCTF/Foresic2",
     "s",
-    "picoCTF/Foresic1",
     "Pasted image 20260222222616.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
