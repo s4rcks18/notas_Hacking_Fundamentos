@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "96da28d1ba816733",
+        "id": "8060013df249b298",
         "type": "tabs",
         "children": [
           {
-            "id": "16301fbe35a237f9",
+            "id": "c2b4af4ed0524efd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "4899e6187005c087",
@@ -176,14 +176,23 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "16301fbe35a237f9",
+  "active": "c2b4af4ed0524efd",
   "lastOpenFiles": [
+    "picoCTF/Crypto3/b00tl3gRSA2.md",
+    "picoCTF/Crypto3/b00tl3gRSA3.md",
+    "picoCTF/Crypto3/Mini RSA.md",
+    "picoCTF/Crypto3/Mind your Ps and Qs.md",
+    "picoCTF/plantillas.md",
+    "picoCTF/Reversing3",
+    "picoCTF/Reversing2",
+    "picoCTF/Crypto4-1",
+    "picoCTF/Crypto4",
+    "picoCTF/Crypto3",
     "picoCTF/Reversing/vault-door-training.md",
     "picoCTF/Reversing/vault-door-1.md",
     "picoCTF/Reversing/vault-door-3.md",
     "picoCTF/Reversing/vault-door-4.md",
     "picoCTF/Reversing/vault-door-5.md",
-    "picoCTF/plantillas.md",
     "picoCTF/Reversing",
     "picoCTF/Crypto2/rsa-pop-quiz.md",
     "picoCTF/Crypto2",
@@ -203,17 +212,8 @@
     "picoCTF/Foresic4/3- Sleuthkit Intro.md",
     "README.md",
     "picoCTF/Parcial1/examenGeneral/10- Specialer.md",
-    "picoCTF/Parcial1/examenGeneral/9 - SansAlpha.md",
-    "picoCTF/Parcial1/examenGeneral/8- Python Wrangling.md",
-    "picoCTF/Parcial1/examenGeneral/7-flag_shop.md",
-    "picoCTF/Parcial1/examenGeneral/6- dont-you-love-banners.md",
     "picoCTF/Parcial1/examenGeneral",
     "picoCTF/Parcial1/examenWeb",
-    "picoCTF/Parcial1",
-    "picoCTF/Foresic4",
-    "picoCTF/Foresic3",
-    "picoCTF/Foresic2",
-    "s",
     "Pasted image 20260222222616.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
