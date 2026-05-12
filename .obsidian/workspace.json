@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40030538caae9c18",
+        "id": "88861ca432ef5c5c",
         "type": "tabs",
         "children": [
           {
-            "id": "d61e31a3ad8b3edf",
+            "id": "8a79e41b3657df99",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,15 +176,19 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "d61e31a3ad8b3edf",
+  "active": "8a79e41b3657df99",
   "lastOpenFiles": [
+    "picoCTF/Reversing3/asm1.md",
+    "picoCTF/Reversing3/asm2.md",
+    "picoCTF/Reversing3/asm3.md",
+    "picoCTF/plantillas.md",
+    "picoCTF/Reversing3 1",
     "picoCTF/Reversing2/Picker IV.md",
     "picoCTF/Reversing2/Picker III.md",
     "picoCTF/Reversing2/Picker II.md",
     "picoCTF/Reversing2/Picker I.md",
     "picoCTF/Reversing2/timer.md",
     "picoCTF/Reversing2/Safe Opener 2.md",
-    "picoCTF/plantillas.md",
     "picoCTF/CryptoTarea/substitution2.md",
     "picoCTF/CryptoTarea/Vigenere.md",
     "picoCTF/CryptoTarea/substitution1.md",
@@ -201,9 +205,6 @@
     "picoCTF/Crypto4/Flags.md",
     "picoCTF/Crypto4/basic-mod1.md",
     "picoCTF/Crypto3/b00tl3gRSA2.md",
-    "picoCTF/Crypto3/b00tl3gRSA3.md",
-    "picoCTF/Crypto3/Mini RSA.md",
-    "picoCTF/Crypto3/Mind your Ps and Qs.md",
     "picoCTF/Reversing3",
     "picoCTF/Reversing2",
     "picoCTF/CryptoTarea",
@@ -213,7 +214,6 @@
     "picoCTF/Crypto2",
     "picoCTF/Crypto1",
     "picoCTF/Parcial1/examenGeneral",
-    "picoCTF/Parcial1/examenWeb",
     "Pasted image 20260222222616.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
