@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6d05453f1d481cfd",
+        "id": "998e66106e1ba883",
         "type": "tabs",
         "children": [
           {
-            "id": "7d2b764a715a95e3",
+            "id": "df7e008daa3fa468",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,14 +176,24 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "7d2b764a715a95e3",
+  "active": "df7e008daa3fa468",
   "lastOpenFiles": [
+    "picoCTF/CryptoTarea/substitution2.md",
+    "picoCTF/CryptoTarea/Vigenere.md",
+    "picoCTF/CryptoTarea/substitution1.md",
+    "picoCTF/CryptoTarea/substitution0.md",
+    "picoCTF/CryptoTarea/rail-fence.md",
+    "picoCTF/CryptoTarea/morse-code.md",
+    "picoCTF/CryptoTarea/hashcrack.md",
+    "picoCTF/CryptoTarea/EVEN RSA CAN BE BROKEN.md",
+    "picoCTF/CryptoTarea/credstuff.md",
+    "picoCTF/CryptoTarea/Crack the Power.md",
+    "picoCTF/plantillas.md",
     "picoCTF/Crypto4/ReadMyCer.md",
     "picoCTF/Crypto4/Pixelated.md",
     "picoCTF/Crypto4/HideToSee.md",
     "picoCTF/Crypto4/Flags.md",
     "picoCTF/Crypto4/basic-mod1.md",
-    "picoCTF/plantillas.md",
     "picoCTF/Crypto3/b00tl3gRSA2.md",
     "picoCTF/Crypto3/b00tl3gRSA3.md",
     "picoCTF/Crypto3/Mini RSA.md",
@@ -201,16 +211,6 @@
     "picoCTF/Reversing",
     "picoCTF/Crypto2/rsa-pop-quiz.md",
     "picoCTF/Crypto2",
-    "## Reto## Descripción## Solución## Notas## Referencias.md",
-    "picoCTF/Crypto1/waves over lambda.md",
-    "picoCTF/Crypto1/Tapping.md",
-    "picoCTF/Crypto1/la cifra de.md",
-    "picoCTF/Crypto1/Easy1.md",
-    "picoCTF/Crypto1/caesar.md",
-    "picoCTF/Crypto1/The Numbers.md",
-    "picoCTF/Crypto1/interencdec.md",
-    "picoCTF/4-General Skills/7- ASCII Numbers.md",
-    "picoCTF/4-General Skills/4- Collaborative Development.md",
     "picoCTF/Crypto1",
     "picoCTF/Parcial1/examenGeneral",
     "picoCTF/Parcial1/examenWeb",
