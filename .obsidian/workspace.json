@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "998e66106e1ba883",
+        "id": "40030538caae9c18",
         "type": "tabs",
         "children": [
           {
-            "id": "df7e008daa3fa468",
+            "id": "d61e31a3ad8b3edf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,8 +176,15 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "df7e008daa3fa468",
+  "active": "d61e31a3ad8b3edf",
   "lastOpenFiles": [
+    "picoCTF/Reversing2/Picker IV.md",
+    "picoCTF/Reversing2/Picker III.md",
+    "picoCTF/Reversing2/Picker II.md",
+    "picoCTF/Reversing2/Picker I.md",
+    "picoCTF/Reversing2/timer.md",
+    "picoCTF/Reversing2/Safe Opener 2.md",
+    "picoCTF/plantillas.md",
     "picoCTF/CryptoTarea/substitution2.md",
     "picoCTF/CryptoTarea/Vigenere.md",
     "picoCTF/CryptoTarea/substitution1.md",
@@ -188,7 +195,6 @@
     "picoCTF/CryptoTarea/EVEN RSA CAN BE BROKEN.md",
     "picoCTF/CryptoTarea/credstuff.md",
     "picoCTF/CryptoTarea/Crack the Power.md",
-    "picoCTF/plantillas.md",
     "picoCTF/Crypto4/ReadMyCer.md",
     "picoCTF/Crypto4/Pixelated.md",
     "picoCTF/Crypto4/HideToSee.md",
@@ -203,13 +209,7 @@
     "picoCTF/CryptoTarea",
     "picoCTF/Crypto4",
     "picoCTF/Crypto3",
-    "picoCTF/Reversing/vault-door-training.md",
-    "picoCTF/Reversing/vault-door-1.md",
-    "picoCTF/Reversing/vault-door-3.md",
-    "picoCTF/Reversing/vault-door-4.md",
-    "picoCTF/Reversing/vault-door-5.md",
     "picoCTF/Reversing",
-    "picoCTF/Crypto2/rsa-pop-quiz.md",
     "picoCTF/Crypto2",
     "picoCTF/Crypto1",
     "picoCTF/Parcial1/examenGeneral",
